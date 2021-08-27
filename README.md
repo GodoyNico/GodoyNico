@@ -13,7 +13,7 @@ Software Development student, who loves travel, animals and meet new people.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodoyNico&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-<img align="center" alt="Nícolas-swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+<img align="center" alt="GodoyNico-swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
 <a><img align="right" alt="rocket" height="120" width="140" src="https://media.giphy.com/media/jfF6mIPumEzN9QW0kL/giphy.gif"></a>
 </div>
     
